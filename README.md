@@ -1,5 +1,5 @@
-Hi, I’m Sebastian Santiago and I´m from Uruguay
-I’m currently learning Java in an Institute
+- Hi, I’m Sebastian Santiago and I´m from Uruguay.
+- I’m currently learning Java in an Institute.
 
 
 <!---
